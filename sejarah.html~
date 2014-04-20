@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<script type="text/javascript" src="qrc:///js/jquery.js"></script>
+<script type="text/javascript" src="qrc:///js/ign.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<script type="text/javascript" >    	
+    	var db = ign.sql();
+ 		db.driver("mysql","localhost:root:mysql:hackaton")
+	</script>
+</head>
+<body bgsound src="/home/igos/Desktop/dongkrek2.MP3">
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+ 	<script src="js/bootstrap.js"></script>
+	<div id="wrapper">	
+		<div style=" margin: 0px; height: 350px; overflow: auto; width: 700px;">
+			Sejarah Kesenian Tari Dhungkrek
+			<br>
+			<br>
+			Nama Dhungkrek berasal dari 2 bunyi instrumen yaitu bedug dan korek, bila bedug
+			dibunyikan terdengar dhung dan bunyi korek terdengar krek, sehingga kalau dibunyikan
+			bergiliran dan terus menerus terdengar dhung-krek-dhung-krek. Bunyi tersebut menjadi nama
+			dhungkrek yang kemudian menjadi nama kesenian rakyat kabupaten Madiun. Kedua
+			instrumen tersebut merupakan instrumen yang hakiki dan dominan. Hakiki artinya mutlak
+			harus ada dan dominan berarti mempunyai kedudukan yang sangat penting dan menonjol
+			dalam permainan bersama.
+			<br>
+			<br>
+			Berdasarkan penelusuran riwayat Dhungkrek, bahwa Dhungkrek diciptakan oleh
+			almarhum R. Bei Lo Prawirodipuro yang pada masa itu menjabat Palang di Mejayan
+			(Caruban). Palang adalah suatu jabatan yang membawahi 4-5 Kepala Desa. Palang sebagai
+			Lurah Kepala bertanggung jawab langsung kepada Wedana sebagai atasannya. Raden Bei
+			Lo Prawirodipuro adalah Palang terakhir dalam sistem pemerintahan pada waktu itu sampai
+			wafatnya kurang lebih tahun 1915/1916. Sebetulnya jabatan Palang tersebut sudah lama
+			dihapus sebelum itu, namun almarhum R. Bei Lo Prawirodipuro mendapat prioritas
+			memangku jabatan tersebut. Hal ini diduga karena atas kepribadian kepemimpinan,
+			kewibawaan dan sebagainya yang dimiliki beliau sehingga pihak yang berwajib mengambil
+			kebijaksanaan melangsungkan jabatan Palang khusus bagi beliau saja.
+			<br>
+			<br>
+			Diperkirakan Dhungkrek lahir sekitar tahun 1910. Waktu itu berkembang sangat
+			pesat karena penciptanya semasa hidupnya dikenal sebagai orang sakti dan mempunyai
+			kewibawaan yang besar, sehingga menjadi kesenian yang paling Top Tetapi masa kejayaan
+			ini tidak berlangsung lama, mengalami kemunduran dan lama kelamaan kesenian ini makin
+			tenggelam bahkan namanya saja sudah banyak yang tidak mengenal. Hal ini kemungkinan
+			disebabkan selain sang pencipta sudah almarhum, juga karena sifat Dhungkrek yang statis
+			sehingga menimbulkan jemu yang berakibat masuknya kesenian lain terutama kesenian dari
+			Jawa Tengah yang sampai saat ini mendapat tempat yang subur di hati rakyat Caruban
+			khususnya dan rakyat Madiun umumnya.
+		</div>
+	<a href="index.html">Kembali ke Halaman Index</a>	
+	</div>
+</body>
+</html>

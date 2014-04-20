@@ -8,9 +8,39 @@
  * Designed and built with all the love in the world by @mdo and @fat.
  */
 
+
+
+#wrapperutama {  
+width: 400px;  
+margin: 150px auto;  
+height: 230px;  
+padding: 50px;  
+background-color: #FFF;
+background:#000; opacity:0.7;filter:alpha(opacity=40);  
+box-shadow: 0px 0px 20px #F60;  
+-moz-box-shadow:0px 0px 20px #F60;  
+-webkit-box-shadow: 0px 0px 20px #F60;  
+border-radius: 17px;  
+-moz-border-radius: 17px;  
+-webkit-border-radius: 17px; }
+
+#wrapper {  width: 700px;  
+margin: 80px auto;  
+height: 400px;  
+padding: 20px;  
+background-color: #FFF;  
+box-shadow: 0px 0px 20px #F60;  
+-moz-box-shadow:0px 0px 20px #F60;  
+-webkit-box-shadow: 0px 0px 20px #F60;  
+border-radius: 17px;  
+-moz-border-radius: 17px;  
+-webkit-border-radius: 17px; } 
+
 .clearfix {
   *zoom: 1;
 }
+
+.transparan1{background:#000; opacity:0.6;filter:alpha(opacity=40);}
 
 .clearfix:before,
 .clearfix:after {
