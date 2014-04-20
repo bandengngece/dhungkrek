@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Aplikasi Pengenalan Kesenian Tari Dhungkrek
+Exec=/usr/bin/ignsdk -p /opt/ignsdk/dhungkrek.ign
+Icon=/opt/ignsdk/dhungkrek.ign/icons/app.png
+Terminal=false
+Type=Application
+Categories=Education
