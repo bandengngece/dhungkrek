@@ -9,8 +9,8 @@
 		"noframe" : false, 
 		"fullscreen" : false,
 		"maximize" : false,
-		"width" : 300,
-		"height" : 400
+		"width" : 800,
+		"height" : 600
 	},
   "button" : [
 		"back",

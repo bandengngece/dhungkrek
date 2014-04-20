@@ -1,0 +1,21 @@
+{
+  "config" : { 
+		"debug" : true,
+		"websecurity" : true,
+		"name" : "Aplikasi Pengenalan Kesenian Tari Dhungkrek"
+  },
+  "window" : { 
+		"transparent" : false, 
+		"noframe" : true, 
+		"fullscreen" : false,
+		"maximize" : false,
+		"width" : 800,
+		"height" : 600
+	},
+  "button" : [
+		"back",
+		"forward",
+		"stop",
+		"reload"
+	]
+}
