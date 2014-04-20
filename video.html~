@@ -12,24 +12,12 @@
 <body bgsound src="/home/igos/Desktop/dongkrek2.MP3">
 	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
  	<script src="js/bootstrap.js"></script>
- 	
- 	<div id="wrapperutama" align="center">
- 	<font color="black" face="Deutsche Zierschrift" size="5">
-	 <a href="sejarah.html"> Sejarah Tari Dhungkrek </a>
-	 <br>
-	 <br>
-	 <a href="#"> Tokoh Peran Tari Dhungkrek </a>
-	 <br>
-	 <br>
-	 <a href="#"> Nilai Filosofis Kesenian Tari Dhungkrek</a>
-	 <br>
-	 <br>
-	 <a href="#"> Video</a>		 
-	 <br>
-	 <br>
-	 <a href="#"> Quiz</a>
-	</font>
+	<div id="wrapper">	
+		<div style=" margin: 0px; height: 350px; overflow: auto; width: 700px;">
+		<center><iframe width="560" height="315" src="http://www.youtube.com/embed/2XNVNan0VzE" frameborder="0" allowfullscreen></iframe></center>
+		<center><iframe width="560" height="315" src="http://www.youtube.com/embed/NO79xrI8qoE" frameborder="0" allowfullscreen></iframe></center>   
+		</div>
+	<a href="index.html">Kembali ke Halaman Index</a>	
 	</div>
-	
 </body>
 </html>
